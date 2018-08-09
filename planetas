@@ -2,3 +2,4 @@ Alderan
 Coruscant
 Endor
 Tatooine
+Hoth
